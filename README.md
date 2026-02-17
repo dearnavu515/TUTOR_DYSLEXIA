@@ -1,4 +1,6 @@
 FOR NABAMI
+
+
 Project Structurefrontend/: React.js application for the user 
 interface.backend/: Django/Python API handling logic and machine learning models.
 .gitignore: Configured to ignore local environments (ml_env/), node modules, and system files.
